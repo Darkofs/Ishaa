@@ -1,17 +1,5 @@
-[33mcommit 89779ff882300f05d0dc4987183e813fd1b8bf60[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
-Author: Darkofs <sidharthshibu780@gmail.com>
-Date:   Sat Jun 1 06:37:37 2024 +0530
-
-    first commit
-
-[33mcommit cbdad3940700cc28da3c9013c227f01eb8ad712a[m
-Author: Darkofs <sidharthshibu780@gmail.com>
-Date:   Sat Jun 1 00:39:32 2024 +0530
-
-    first commit
-
-[33mcommit 26e5d7971a2fb33134b55d3931c7c4607f01e79e[m[33m ([m[1;31morigin/main[m[33m)[m
-Author: Darkofs <sidharthshibu780@gmail.com>
-Date:   Sat Jun 1 00:04:49 2024 +0530
-
-    initial commit
+git add -A 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Darkofs/darkk.git
+git push -u origin main
